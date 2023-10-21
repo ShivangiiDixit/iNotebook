@@ -6,7 +6,7 @@ export default function NAVBAR() {
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            Home
+            iNotebook
           </a>
           <button
             className="navbar-toggler"
